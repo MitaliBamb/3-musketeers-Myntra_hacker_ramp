@@ -1,4 +1,4 @@
-# Fashion Recommender System
+# Search Your Style(Snap Style)
 
 This project implements a fashion recommender system using deep learning for feature extraction and a k-nearest neighbors algorithm for recommending similar images. It consists of three main scripts: one for feature extraction, one for a Streamlit web application, and one for running the recommender system from the command line.
 
